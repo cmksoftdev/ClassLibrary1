@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testerment", "ClassLibrary1\Testerment.csproj", "{5CE655E7-B53F-4F81-9035-72E00217AE8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testerment", "Testerment\Testerment.csproj", "{5CE655E7-B53F-4F81-9035-72E00217AE8C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaliburnDemo", "CaliburnDemo\CaliburnDemo.csproj", "{2DF1BD9C-3BA1-4CEF-968C-7DC4EC0B907C}"
 EndProject

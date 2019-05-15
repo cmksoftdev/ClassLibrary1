@@ -79,7 +79,7 @@
       <Project>{2df1bd9c-3ba1-4cef-968c-7dc4ec0b907c}</Project>
       <Name>CaliburnDemo</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ClassLibrary1\Testerment.csproj">
+    <ProjectReference Include="..\Testerment\Testerment.csproj">
       <Project>{5ce655e7-b53f-4f81-9035-72e00217ae8c}</Project>
       <Name>Testerment</Name>
     </ProjectReference>
